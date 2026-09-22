@@ -18,7 +18,9 @@ LP3/
 │   └── DAA_mini_project/         # Merge Sort vs Multithreaded Merge Sort
 │
 ├── ML/                           # Machine Learning
-│   └── Prac_1_uber-fare-price-prediction.ipynb
+│   ├── Prac_1_uber-fare-price-prediction.ipynb
+│   ├── Prac_2_email-spam-detection.ipynb
+│   └── Prac_3_bank-customer-churn-modeling.ipynb
 │
 └── README.md
 ```
@@ -43,6 +45,8 @@ LP3/
 | # | Assignment | Description |
 |---|-----------|-------------|
 | 1 | Uber Fare Prediction | Price prediction using regression on the Uber dataset |
+| 2 | Email Spam Detection | Spam classification using ML (98% accuracy) |
+| 3 | Bank Customer Churn | Churn prediction modeling for bank customers |
 
 ---
 
