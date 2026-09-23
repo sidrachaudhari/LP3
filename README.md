@@ -20,7 +20,8 @@ LP3/
 ├── ML/                           # Machine Learning
 │   ├── Prac_1_uber-fare-price-prediction.ipynb
 │   ├── Prac_2_email-spam-detection.ipynb
-│   └── Prac_3_bank-customer-churn-modeling.ipynb
+│   ├── Prac_3_bank-customer-churn-modeling.ipynb
+│   └── Mini_Project/             # AI-Based Offline Signature Verification
 │
 └── README.md
 ```
@@ -47,6 +48,7 @@ LP3/
 | 1 | Uber Fare Prediction | Price prediction using regression on the Uber dataset |
 | 2 | Email Spam Detection | Spam classification using ML (98% accuracy) |
 | 3 | Bank Customer Churn | Churn prediction modeling for bank customers |
+| Mini | Offline Signature Verification | AI-Based Offline Signature Verification dataset kit |
 
 ---
 
